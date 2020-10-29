@@ -36,7 +36,7 @@ Answering point queries is similar to answering point queries in Bloom Filters. 
 
 
 ## Run Sketches 
-Step1: Run the write_the_ip_files.py file to generate data or use the already existed ip_adresses_file.txt file
-Step1: Open the project with Eclipse (Import also .pom file)
-Step2: Run the Count-Min or the Bloom Filter .java files
+1. Run the write_the_ip_files.py file to generate data or use the already existed ip_adresses_file.txt file
+2. Open the project with Eclipse (Import also .pom file)
+3. Run the Count-Min or the Bloom Filter .java files
 
